@@ -1,0 +1,15 @@
+load res/6ColorRGB.png six
+red-component six sixRed
+green-component six sixGreen
+blue-component six sixBlue
+value-component six sixValue
+intensity-component six sixIntensity
+luma-component six sixLuma
+horizontal-flip six sixH
+vertical-flip six sixV
+greyscale six sixGrey
+brighten 100 six sixBrighten
+blur six sixBlur
+sharpen six sixSharpen
+sepia six sixSepia
+save res/sixSepiaScript.png sixSepia
